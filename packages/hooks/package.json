@@ -1,5 +1,5 @@
 {
-  "name": "@pnpm-workspace/hooks",
+  "name": "pnpm-workspace-hooks",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@pnpm-workspace/utils": "workspace:^1.0.0",
+    "pnpm-workspace-utils": "workspace:^1.0.0",
     "react": "^17.0.2"
   }
 }

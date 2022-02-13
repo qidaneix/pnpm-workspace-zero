@@ -1,5 +1,5 @@
 {
-  "name": "@pnpm-workspace/utils",
+  "name": "pnpm-workspace-utils",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

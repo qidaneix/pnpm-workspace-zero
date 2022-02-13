@@ -13,18 +13,18 @@ importers:
 
   packages/components:
     specifiers:
-      '@pnpm-workspace/hooks': workspace:^1.0.0
+      pnpm-workspace-hooks: workspace:^1.0.0
       react: ^17.0.2
     dependencies:
-      '@pnpm-workspace/hooks': link:../hooks
+      pnpm-workspace-hooks: link:../hooks
       react: 17.0.2
 
   packages/hooks:
     specifiers:
-      '@pnpm-workspace/utils': workspace:^1.0.0
+      pnpm-workspace-utils: workspace:^1.0.0
       react: ^17.0.2
     dependencies:
-      '@pnpm-workspace/utils': link:../utils
+      pnpm-workspace-utils: link:../utils
       react: 17.0.2
 
   packages/utils:
